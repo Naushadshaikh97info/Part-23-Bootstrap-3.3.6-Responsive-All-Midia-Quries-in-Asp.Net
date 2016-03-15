@@ -1,0 +1,100 @@
+@media only screen and (min-width:0px) and (max-width:320px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width:321px) and (max-width:480px){
+ /*Any css will be defined here*/
+}
+
+@media only screen and (min-width:481px) and (max-width:540px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width:541px) and (max-width:775px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 767px) and (max-width : 1024px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 1025px) and (max-width : 1199px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 800px) and (max-width : 1280px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 1200px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 1366px) and (max-width : 768px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 1537px){
+/*Any css will be defined here*/
+}
+
+@media only screen and (min-width : 1824px){
+/*Any css will be defined here*/
+} 
+
+/* iPhone min-device ----------- */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+/*Any css will be defined here*/
+}
+
+/* iPhone 4 - 5s - */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+/*Any css will be defined here*/
+} 
+
+/* iPhone 6 ----------- */
+@media only screen and (max-device-width: 667px) , only screen and (-webkit-device-pixel-ratio: 2) {
+/*Any css will be defined here*/
+}
+
+/* iPhone 6+ ----------- */
+@media only screen and (min-device-width : 414px) , only screen and (-webkit-device-pixel-ratio: 3) {
+/*Any css will be defined here*/
+}
+
+--------------------------------------------------------------------------------------------------------
+
+Bootstrap 3.2 Medie Quries
+
+/* Small Devices, Phones */
+@media only screen and (min-width : 0px) {
+    /*Any css will be defined here*/
+}
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+    /*Any css will be defined here*/
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+   /*Any css will be defined here*/
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+   /*Any css will be defined here*/
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+    /*Any css will be defined here*/
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+  /*Any css will be defined here*/
+}
+
+----------------------------------------------------------------------------------------------------------
+
+http://cybercrab.com/screencheck/
